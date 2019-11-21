@@ -1,6 +1,6 @@
 # Password-Generator-Using-Python
-A GUI application for password generation
-modules required-
+A GUI application for password generation. 
+Modules required-
 tkinter,
 functools,
 random, and
