@@ -1,2 +1,9 @@
 # Password-Generator-Using-Python
-It is a simple gui application for strong password generation
+A GUI application for password generation
+modules required
+tkinter
+functools
+random
+pyperclip
+
+Feeel free to download the code for personal and commercial use :)
