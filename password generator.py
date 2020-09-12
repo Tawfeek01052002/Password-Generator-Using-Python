@@ -40,7 +40,7 @@ def copy1(a):
     buttonCopy = tk.Button(root, text="Copy").grid(row=6, column=0)
     pyperclip.copy(a)
     labelNum8 = tk.Label(root, text="'Password Copied to Clipboard'").grid(row=7, column=0)
-    labelNum8 = tk.Label(root, text="Developed by Students of FET,Agra College").grid(row=30, column=1)
+    labelNum8 = tk.Label(root, text="Developed by Students of IT Department,YCCE").grid(row=30, column=1)
     
 
     
